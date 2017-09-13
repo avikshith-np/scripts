@@ -1,1 +1,4 @@
+#!/bin/bash
+sudo apt-get update
+sudo apt-get install openjdk-8-jdk openjdk-8-jre
 sudo apt-get update && sudo apt-get install git-core python gnupg flex bison gperf libsdl1.2-dev libesd0-dev squashfs-tools build-essential zip curl libncurses5-dev zlib1g-dev  pngcrush schedtool  libxml2 libxml2-utils xsltproc lzop libc6-dev schedtool g++-multilib lib32z1-dev lib32ncurses5-dev gcc-multilib liblz4-* android-tools-adb android-tools-fastboot ccache -y
